@@ -13,6 +13,7 @@ An academic valuation project combining intrinsic, relative, and simulation-base
 
 ## Where to start
 
+- [Arm Valuation report (PDF)](Arm%20Valuation.pdf) — full written analysis, dated May 2025.
 - [Intrinsic valuation notebook](arm_intrinsic_valuation_complete.ipynb) — DCF assumptions, projections, and scenario analysis.
 - [Relative valuation notebook](ARM_RELATIVE_VALUATION.ipynb) — peer multiples and regression analysis.
 
